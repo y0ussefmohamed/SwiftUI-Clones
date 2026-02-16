@@ -2,7 +2,7 @@
 
 A collection of pixel-perfect UI clones of popular apps built entirely with **SwiftUI**. This project demonstrates modern iOS UI development techniques including custom animations, gesture handling, and component-based architecture.
 
-## 🎯 Clones Included
+## Clones Included
 
 ### 🎵 Spotify Clone
 
@@ -69,7 +69,7 @@ SwiftUI-Practice/
 - **SwiftfulUI** — UI utilities and extensions
 - **Xcode 16+** / **iOS 17+**
 
-## 🚀 Getting Started
+## Getting Started
 
 1. Clone the repository:
    ```bash
@@ -78,15 +78,15 @@ SwiftUI-Practice/
 2. Open `SwiftUI-Practice.xcodeproj` in Xcode
 3. Build and run on a simulator or device (iOS 17+)
 
-## 📸 Features Highlight
+## Features Highlight
 
-| Feature               | Description                                                  |
-| --------------------- | ------------------------------------------------------------ |
-| 🎨 Pixel-perfect UI   | Closely matches the original app designs                     |
-| 🔄 Swipe Gestures     | Interactive card swiping with physics-based animations       |
-| ✨ Micro-Animations   | Subtle animations for buttons, transitions, and interactions |
-| 📐 Modular Components | Reusable, self-contained UI components                       |
-| 🧭 Clean Navigation   | Router-based navigation with smooth push transitions         |
+| Feature            | Description                                                  |
+| ------------------ | ------------------------------------------------------------ |
+| Pixel-perfect UI   | Closely matches the original app designs                     |
+| Swipe Gestures     | Interactive card swiping with physics-based animations       |
+| Micro-Animations   | Subtle animations for buttons, transitions, and interactions |
+| Modular Components | Reusable, self-contained UI components                       |
+| Clean Navigation   | Router-based navigation with smooth push transitions         |
 
 ## 📄 License
 
