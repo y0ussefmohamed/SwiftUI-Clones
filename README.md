@@ -6,7 +6,7 @@ A collection of pixel-perfect UI clones of popular apps built entirely with **Sw
 
 ### 🎵 Spotify Clone
 
-A faithful recreation of the Spotify interface featuring:
+A recreation of the Spotify interface featuring:
 
 - Home feed with recently played, new releases, and categorized playlists
 - Playlist detail view with song rows and descriptions
